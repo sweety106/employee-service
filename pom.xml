@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
  
     <groupId>com.howtodoinjava.rest</groupId>
-    <artifactId>springbootdemo</artifactId>
+    <artifactId>employee-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
  
-    <name>SpringBootDemo</name>
-    <description>Spring Boot2 REST API Demo for https://howtodoinjava.com</description>
+    <name>EmployeeService</name>
+    <description>Employee Service REST API Demo for https://howtodoinjava.com</description>
  
     <parent>
         <groupId>org.springframework.boot</groupId>
